@@ -1,4 +1,4 @@
-### Oie, eu sou a Beatriz Capucho! 👋
+### Oie, eu sou a Beatriz! 👋
 
 - 🌱 Estudante e futura Desenvolvedora de Software
 - 📚 Atualmente estou aprendendo: HTML, CSS, C, e JavaScript...
